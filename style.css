@@ -67,8 +67,7 @@ p {
   background: rgb(39, 82, 173);
   background: linear-gradient(0deg,rgb(39, 82, 173) 0%,rgb(39, 82, 173) 100%);
   border: none;
-  
-}
+  }
 .btn-2:before {
   height: 0%;
   width: 2px;
@@ -82,7 +81,7 @@ p {
 
 
 
-.btn-3 {
+.btn-3 {{
     background: rgb(0,172,238);
   background: linear-gradient(0deg, rgba(2,126,251,1) 0%, rgba(2,126,251,1) 100%);
     width: 130px;
@@ -90,8 +89,7 @@ p {
     line-height: 42px;
     padding: 0;
     border: none;
-    
-  }
+     }
   .btn-3 span {
     position: relative;
     display: block;
